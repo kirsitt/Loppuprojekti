@@ -1,6 +1,6 @@
 ## Kirsi Tamminen web-tehtävä
 
-<br><br><br><!-- Suo anteeksi, en visuaalisesti pidä siitä, miten tämä teksti rivittyy Githubin esikatseluun ilman näitä rivivälikomentoja, vaikka eivät md-tiedostoon yleisesti kuulukaan -->
+
 # 1. Italics and Bold
 
 ### Italics and Bold Task 1
@@ -8,25 +8,25 @@
 
 Writing in Markdown is *not* that hard!
 
-<br>
+
 ### Italics and Bold Task 2
 <!-- Make the word "will" bold. -->
 
 I **will** complete these lessons!
 
-<br>
+
 ### Italics and Bold Task 3
 <!-- Make the words "Of course" italic, and the words "a little moxie" bold. -->
 
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
-<br>
+
 ### Italics and Bold Task 4 
 <!-- Make the words "This is unbelievable" both bold and italic. Place the asterisks **_on the outside_**, just to make it more legible. -->
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-<br><br>
+
 # 2. Headers
 
 ### Headers Task 1
@@ -39,7 +39,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ##### Header five
 ###### Header six
 
-<br>
+
 ### Headers Task 2
 <!-- Make the first line a heading level four, and italicize the name of the book: -->
 
@@ -47,7 +47,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-<br><br>
+
 # 3. Links
 
 ### Links Task 1
@@ -55,19 +55,19 @@ Here's some words about the book _One Hundred Years..._.
 
 [Search for it.](www.google.com)
 
-<br>
+
 ### Links Task 2
 <!-- Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com. You'll want to make sure that the bold phrasing occurs within the link text brackets. -->
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-<br>
+
 ### Links Task 3
 <!-- Make the text a heading four, and turn the phrase "the BBC" into a link to www.bbc.com/news: -->
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
-<br>
+
 ### Links 4 Task
 <!-- We've started writing out some reference links. You'll need to finish them up! Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com. -->
 
@@ -78,7 +78,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:www.zombo.com
 [another fun place]:www.stumbleupon.com
 
-<br><br>
+
 # 4. Images
 
 ### Images Task 1
@@ -86,7 +86,7 @@ Well, do I have [the website for you][another fun place]!
  
 ![A pretty tiger](https:##upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-<br>
+
 ### Images Task 2
 <!-- We've started placing some reference images; you'll need to complete them, just like the last lesson. Call the first reference tag "Black", and make it link to https:##upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to https:##upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png.  -->
 
@@ -97,7 +97,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https:##upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: https:##upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
-<br><br>
+
 # 5. Blockquotes
 
 ### Blockquotes Task 1
@@ -107,7 +107,7 @@ I read this interesting quote the other day:
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 
-<br>
+
 ### Blockquotes Task 2
 <!-- Make the entire quotation a block quote by inserting a caret on each line.  -->
 
@@ -117,13 +117,13 @@ I read this interesting quote the other day:
 
 >He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
 
-<br>
+
 ### Blockquotes Task 3
 <!-- Make the French text italic (not including the exclamation point). Also, turn the entire quote into a blockquote. -->
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-<br><br>  
+  
 # 6. Lists
 
 ### Lists Task 1
@@ -133,7 +133,7 @@ I read this interesting quote the other day:
 * Cheese
 * Tomatoes
 
-<br>
+
 ### Lists Task 2
 <!-- Turn the rest of the recipe into an ordered list. -->
 
@@ -141,7 +141,7 @@ I read this interesting quote the other day:
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
-<br>
+
 ### Lists Task 3
 <!-- Turn the Latin names for the plants into italics. -->
 
@@ -149,7 +149,7 @@ I read this interesting quote the other day:
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
-<br>
+
 ### Lists Task 4
 <!-- Turn the character's characteristics into sub-bullets. -->
 
@@ -162,7 +162,7 @@ I read this interesting quote the other day:
     * Has white hair
     * Is very famous
 
-<br>
+
 ### Lists Task 5
 <!-- Convert the bullet points into their own paragraphs. -->
 
@@ -177,7 +177,7 @@ I read this interesting quote the other day:
   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 
-<br><br>
+
 # 7. Paragraphs
 
 ### Paragraphs Task 1
@@ -188,7 +188,7 @@ They dwelt in their strawy pen,
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
 
-<br>
+
 ### Paragraphs Task 2: <!-- Instead of using hard breaks, tighten the sub-paragraphs with soft breaks: -->
 
 1. Crack three eggs over a bowl.  

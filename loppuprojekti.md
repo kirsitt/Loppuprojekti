@@ -4,25 +4,25 @@
 # 1. Italics and Bold
 
 ### Task 1
-"Make the word "not" italic"
+###### Make the word "not" italic
 
 Writing in Markdown is *not* that hard!
 
 
 ### Task 2
-"Make the word "will" bold."
+###### Make the word "will" bold.
 
 I **will** complete these lessons!
 
 
 ### Task 3
-"Make the words "Of course" italic, and the words "a little moxie" bold."
+###### Make the words "Of course" italic, and the words "a little moxie" bold.
 
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 
 ### Task 4 
-"Make the words "This is unbelievable" both bold and italic. Place the asterisks **_on the outside_**, just to make it more legible."
+###### Make the words "This is unbelievable" both bold and italic. Place the asterisks **_on the outside_**, just to make it more legible.
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
@@ -30,7 +30,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 # 2. Headers
 
 ### Task 1
-"Make each header the right size"
+###### Make each header the right size
 
 # Header one
 ## Header two
@@ -41,7 +41,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 ### Task 2
-"Make the first line a heading level four, and italicize the name of the book:"
+###### Make the first line a heading level four, and italicize the name of the book:
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
@@ -51,25 +51,25 @@ Here's some words about the book _One Hundred Years..._.
 # 3. Links
 
 ### Task 1
-"Make a link to www.google.com, with link text that says "Search for it.""
+###### Make a link to www.google.com, with link text that says "Search for it."
 
 [Search for it.](www.google.com)
 
 
 ### Task 2
-"Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com. You'll want to make sure that the bold phrasing occurs within the link text brackets."
+###### Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com. You'll want to make sure that the bold phrasing occurs within the link text brackets.
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 
 ### Task 3
-"Make the text a heading four, and turn the phrase "the BBC" into a link to www.bbc.com/news:"
+###### Make the text a heading four, and turn the phrase "the BBC" into a link to www.bbc.com/news:
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
 
 ### 4 Task
-"We've started writing out some reference links. You'll need to finish them up! Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com."
+###### We've started writing out some reference links. You'll need to finish them up! Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com.
 
 Do you want to [see something fun][a fun place]?
 
@@ -82,13 +82,13 @@ Well, do I have [the website for you][another fun place]!
 # 4. Images
 
 ### Task 1
-" Turn the link to an image, and fill out the alt text brackets to say "A pretty tiger":"
+###### Turn the link to an image, and fill out the alt text brackets to say "A pretty tiger":
  
 ![A pretty tiger](https:##upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
 ### Task 2
-"We've started placing some reference images; you'll need to complete them, just like the last lesson. Call the first reference tag "Black", and make it link to https:##upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to https:##upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png. "
+###### We've started placing some reference images; you'll need to complete them, just like the last lesson. Call the first reference tag "Black", and make it link to https:##upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to https:##upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png.
 
 ![Black cat][Black]
 
@@ -101,7 +101,7 @@ Well, do I have [the website for you][another fun place]!
 # 5. Blockquotes
 
 ### Task 1
-"Turn the book quotation into a blockquote:"
+###### Turn the book quotation into a blockquote:
 
 I read this interesting quote the other day:
 
@@ -109,7 +109,7 @@ I read this interesting quote the other day:
 
 
 ### Task 2
-"Make the entire quotation a block quote by inserting a caret on each line. "
+###### Make the entire quotation a block quote by inserting a caret on each line.
 
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 
@@ -119,7 +119,7 @@ I read this interesting quote the other day:
 
 
 ### Task 3
-"Make the French text italic (not including the exclamation point). Also, turn the entire quote into a blockquote."
+###### Make the French text italic (not including the exclamation point). Also, turn the entire quote into a blockquote.
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
@@ -127,7 +127,7 @@ I read this interesting quote the other day:
 # 6. Lists
 
 ### Task 1
-"Turn the words separated by a comma into a list."
+###### Turn the words separated by a comma into a list.
 
 * Flour
 * Cheese
@@ -135,7 +135,7 @@ I read this interesting quote the other day:
 
 
 ### Task 2
-"Turn the rest of the recipe into an ordered list."
+###### Turn the rest of the recipe into an ordered list.
 
 1. Cut the cheese
 2. Slice the tomatoes
@@ -143,7 +143,7 @@ I read this interesting quote the other day:
 
 
 ### Task 3
-"Turn the Latin names for the plants into italics."
+###### Turn the Latin names for the plants into italics.
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
@@ -151,7 +151,7 @@ I read this interesting quote the other day:
 
 
 ### Task 4
-"Turn the character's characteristics into sub-bullets."
+###### Turn the character's characteristics into sub-bullets.
 
 * Calculus
     * A professor
@@ -164,7 +164,7 @@ I read this interesting quote the other day:
 
 
 ### Task 5
-"Convert the bullet points into their own paragraphs."
+###### Convert the bullet points into their own paragraphs.
 
 1. Cut the cheese
   
@@ -181,7 +181,7 @@ I read this interesting quote the other day:
 # 7. Paragraphs
 
 ### Task 1
-"Insert the necessary number of spaces to make the poem render correctly:"
+###### Insert the necessary number of spaces to make the poem render correctly:
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -189,7 +189,8 @@ Nor did it occur to one of us there
 To doubt they were kneeling then.
 
 
-### Task 2: "Instead of using hard breaks, tighten the sub-paragraphs with soft breaks:"
+### Task 2:
+###### Instead of using hard breaks, tighten the sub-paragraphs with soft breaks:
 
 1. Crack three eggs over a bowl.  
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.  

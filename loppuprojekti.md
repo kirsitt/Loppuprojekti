@@ -205,8 +205,8 @@ Nor did it occur to one of us there
 To doubt they were kneeling then.
 
 
-
-
+  
+  
 ##Paragraphs Task nr.1: Instead of using hard breaks, tighten the sub-paragraphs with soft breaks:
 
 1. Crack three eggs over a bowl.  

@@ -4,24 +4,29 @@
 ##1. Italics and Bold
 
 ##Italics and Bold Task 1: <!-- Make the word "not" italic -->
+
 Writing in Markdown is *not* that hard!
 
 <br>
 ##Italics and Bold Task 2: <!-- Make the word "will" bold. -->
+
 I **will** complete these lessons!
 
 <br>
 ##Italics and Bold Task 3: <!-- Make the words "Of course" italic, and the words "a little moxie" bold. -->
+
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 <br>
 ##Italics and Bold Task 4: <!-- Make the words "This is unbelievable" both bold and italic. Place the asterisks **_on the outside_**, just to make it more legible. -->
+
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 <br><br>
 ##2. Headers
 
 ##Headers Task 1: <!-- Make each header the right size -->
+
 # Header one
 ## Header two
 ### Header three
@@ -31,6 +36,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 <br>
 ##Headers Task 2: <!-- Make the first line a heading level four, and italicize the name of the book: -->
+
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
@@ -39,6 +45,7 @@ Here's some words about the book _One Hundred Years..._.
 ##3. Links
 
 ##Links Task 1: <!-- Make a link to www.google.com, with link text that says "Search for it." -->
+
 [Search for it.](www.google.com)
 
 <br>
@@ -47,7 +54,7 @@ Here's some words about the book _One Hundred Years..._.
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 <br>
-##Links Task 3: Make the text a heading four, and turn the phrase "the BBC" into a link to www.bbc.com/news:
+##Links Task 3: <!-- Make the text a heading four, and turn the phrase "the BBC" into a link to www.bbc.com/news: -->
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
@@ -81,6 +88,7 @@ Well, do I have [the website for you][another fun place]!
 ##5. Blockquotes
 
 ##Blockquotes Task 1: <!-- Turn the book quotation into a blockquote: -->
+
 I read this interesting quote the other day:
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"

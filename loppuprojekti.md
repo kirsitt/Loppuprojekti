@@ -1,6 +1,6 @@
 ##Kirsi Tamminen web-tehtävä
-##Osa-alueiden tehtävänanto lisätty kommenttina lähdekoodiin
 
+<br><br><br>
 ##1. Italics and Bold
 
 ##Italics and Bold Task 1: <!-- Make the word "not" italic -->
